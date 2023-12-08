@@ -1,0 +1,1131 @@
+{
+  "#comment": "",
+  "html": {
+    "@lang": "en",
+    "head": {
+      "link": {
+        "@rel": "shortcut icon",
+        "@href": "Binaries/gb.ico"
+      },
+      "title": "GBA Games",
+      "meta": {
+        "@charset": "UTF-8"
+      }
+    },
+    "body": {
+      "@style": "background:rgb(248, 237, 224);",
+      "h1": "Welcome to the GBA Emulator",
+      "img": {
+        "@src": "Binaries/gba.png",
+        "@alt": "GBA Logo"
+      },
+      "h2": [
+        "Select a game:",
+        {
+          "a": {
+            "@href": "https://github.com/Browncha023/GBA/wiki",
+            "@target": "_blank",
+            "img": {
+              "@src": "Binaries/here.png",
+              "@alt": "here"
+            }
+          },
+          "#text": "For Info On: Game Collections, Controls, And Some Other Cool Stuff. Check Out The Wiki:"
+        }
+      ],
+      "main": {
+        "@style": "border:5px black solid; border-radius:25px; background:rgb(248, 237, 210);padding-left:20px;",
+        "ul": [
+          {
+            "li": [
+              {
+                "a": {
+                  "@href": "./launcher.html#007",
+                  "#text": "007 - Everything Or Nothing"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#advancewars",
+                  "#text": "Advance Wars"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#advancewars2",
+                  "#text": "Advance Wars 2"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#aladdin",
+                  "#text": "Aladdin"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#alienhominid",
+                  "#text": "Alien Hominid"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#atari",
+                  "#text": "Atari Anniversary Advance"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#bomberman_max2blue",
+                  "#text": "Bomberman Max 2 - Blue Advance"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#bomberman_tournament",
+                  "#text": "Bomberman Tournament"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#bubblebobble",
+                  "#text": "Bubble Bobble: Old and New"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#cfpt",
+                  "#text": "Connect Four/Perfection/Trouble"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#cbha",
+                  "#text": "Crash Bandicoot - The Huge Adventure"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#cbprr",
+                  "#text": "Crash Bandicoot - Purple Riptos Rampage"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#cb2",
+                  "#text": "Crash Bandicoot 2 - N-Tranced"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#cnk",
+                  "#text": "Crash Nitro Kart"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#croket1",
+                  "#text": "Croket! - Yume no Banker Survival!"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#croket2",
+                  "#text": "Croket! 2 - Yami no Bank to Banqueen"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#croket3",
+                  "#text": "Croket! 3 - Granu Oukoku no Nazo"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#croket4",
+                  "#text": "Croket! 4 - Bank no Mori no Mamorigami"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#digimon_racing",
+                  "#text": "Digimon Racing"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#dkkos",
+                  "#text": "DK - King Of Swing"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#dkc",
+                  "#text": "Donkey Kong Country"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#dkc2",
+                  "#text": "Donkey Kong Country 2"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#dkc3",
+                  "#text": "Donkey Kong Country 3"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#dm",
+                  "#text": "Doom"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#dm2",
+                  "#text": "Doom 2"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#dbz_supersonic",
+                  "#text": "Dragon Ball Z - Supersonic Warriors"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#dmpl",
+                  "#text": "Dr. Mario+Puzzle League"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#drilldozer",
+                  "#text": "Drill Dozer"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#dna",
+                  "#text": "Duke Nukem Advance"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#dnd",
+                  "#text": "Dungeons And Dragons - Eye Of The Beholder"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#earthwormjim",
+                  "#text": "Earthworm Jim"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#earthwormjim2",
+                  "#text": "Earthworm Jim 2"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#ffeud",
+                  "#text": "Family Feud"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#fan4",
+                  "#text": "Fantastic 4"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#fan4fo",
+                  "#text": "Fantastic 4 - Flame On"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#fifa4",
+                  "#text": "FIFA Football 2004"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#fifa5",
+                  "#text": "FIFA Football 2005"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#fifa6",
+                  "#text": "FIFA 06"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#fifawc6",
+                  "#text": "FIFA World Cup 2006"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#fifa7",
+                  "#text": "FIFA 2007"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#ff1and2",
+                  "#text": "Final Fantasy 1 & 2 Advance"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#ff4S",
+                  "#text": "Final Fantasy IV Advance (Sound Restoration Mod)"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#ff6",
+                  "#text": "Final Fantasy VI Advance"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#final_fantasy_tactics",
+                  "#text": "Final Fantasy Tactics Advance"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#fire_emblem",
+                  "#text": "Fire Emblem"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#fr3",
+                  "#text": "Ford Racing 3"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#frogger1",
+                  "#text": "Frogger Advance - The Great Quest"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#frogger2",
+                  "#text": "Frogger's Adventures - Temple of the Frog"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#frogger3",
+                  "#text": "Frogger's Adventures 2 - The Lost Wand"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#fzero_gp",
+                  "#text": "F-Zero - GP Legend"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#fzero_max",
+                  "#text": "F-Zero - Maximum Velocity"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#gamewatch4",
+                  "#text": "Game & Watch Gallery 4"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#goldensun",
+                  "#text": "Golden Sun"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#gta",
+                  "#text": "Grand Theft Auto Advance"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#gunstar_super_heroes",
+                  "#text": "Gunstar Super Heroes"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#hamtaro_heartbreak",
+                  "#text": "Hamtaro - Ham-Ham Heartbreak"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#hmfmt",
+                  "#text": "Harvest Moon - Friends Of Mineral Town"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#hmmfmt",
+                  "#text": "Harvest Moon - More Friends Of Mineral Town"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#iridion",
+                  "#text": "Iridion 3D"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#jca",
+                  "#text": "Jackie Chan Adventures - Legend Of The Dark Hand"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#jbn",
+                  "#text": "James Bond 007 - Nightfire"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#jp3dna",
+                  "#text": "Jurassic Park III - DNA Factor"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#jp3ia",
+                  "#text": "Jurassic Park III - Island Attack"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#jp3pb",
+                  "#text": "Jurassic Park III - Park Builder"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#jlifa",
+                  "#text": "Justice League - Injustice For All"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#jlc",
+                  "#text": "Justice League Chronicles"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#jlhth",
+                  "#text": "Justice League Heros - The Flash"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#khcom",
+                  "#text": "Kingdom Hearts - Chain Of Memories"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#kirbymirror",
+                  "#text": "Kirby & The Amazing Mirror"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#kirbynightmare",
+                  "#text": "Kirby: Nightmare in Dreamland"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#lb",
+                  "#text": "Lego Bionicle"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#li2",
+                  "#text": "Lego Island 2"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#lr2",
+                  "#text": "Lego Racers 2"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#lsw",
+                  "#text": "Lego Star Wars"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#lotrtta",
+                  "#text": "Lord Of The Rings: The Third Age"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#lotr2",
+                  "#text": "Lord Of The Rings: The Two Towers"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#lotr3",
+                  "#text": "Lord Of The Rings: The Return Of The King"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#superstar",
+                  "#text": "Mario & Luigi: Superstar Saga"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#mariokart",
+                  "#text": "Mario Kart: Super Circuit"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#marioparty",
+                  "#text": "Mario Party Advance"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#mariopinball",
+                  "#text": "Mario Pinball Land"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#mvsdk",
+                  "#text": "Mario V.S. Donkey Kong"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#megamanbass",
+                  "#text": "Megaman & Bass"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#megaman_battle1",
+                  "#text": "Megaman Battle Network 1"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#megaman_battle2",
+                  "#text": "Megaman Battle Network 2"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#megaman_battle3_blue",
+                  "#text": "Megaman Battle Network 3 Blue"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#megaman_battle4_blue",
+                  "#text": "Megaman Battle Network 4 Blue Moon"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#megaman_battle4_red",
+                  "#text": "Megaman Battle Network 4 Red Sun"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#megaman_battle5",
+                  "#text": "Megaman Battle Network 5 Team Protoman"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#megaman_battle6",
+                  "#text": "Megaman Battle Network 6 Cybeast Falzar"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#megaman_zero1",
+                  "#text": "Megaman Zero"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#megaman_zero2",
+                  "#text": "Megaman Zero 2"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#megaman_zero3",
+                  "#text": "Megaman Zero 3"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#megaman_zero4",
+                  "#text": "Megaman Zero 4"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#metalslug",
+                  "#text": "Metal Slug Advance"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#metroid_fusion",
+                  "#text": "Metroid Fusion"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#mzm",
+                  "#text": "Metroid Zero Mission"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#momotarou_dentetsu",
+                  "#text": "Momotarou Dentetsu G Gold Deck wo Tsukure!"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#monopoly",
+                  "#text": "Monopoly"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#monster_force",
+                  "#text": "Monster Force"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#mortal_kombat",
+                  "#text": "Mortal Kombat Advance"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#m3",
+                  "#text": "Mother 3"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#nbaj",
+                  "#text": "NBA Jam 2002"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#nfsu",
+                  "#text": "Need For Speed - Underground"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#nfsu2",
+                  "#text": "Need For Speed - Underground 2"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#onepiece",
+                  "#text": "One Piece"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#pmc",
+                  "#text": "Pacman Collection"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#pmpa",
+                  "#text": "Pacman Pinball Advance"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#pacman_world",
+                  "#text": "Pacman World"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#pacman_world2",
+                  "#text": "Pacman World 2"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#pokemonemerald",
+                  "#text": "Pokemon Emerald"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#pokemonek",
+                  "#text": "Pokemon Emerald (Kaizo Mod)"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#eprp",
+                  "#text": "Pokemon Emerald (Party Randomizer Plus Mod)"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#pokemonflorasky",
+                  "#text": "Pokemon Flora Sky (Emerald Mod)"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#pokemongreen",
+                  "#text": "Pokemon Leaf Green"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#pokemonred",
+                  "#text": "Pokemon Fire Red"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#gaia",
+                  "#text": "Pokemon Gaia (Fire Red Mod)"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#prs",
+                  "#text": "Pokemon Rocket Strike (Fire Red Mod)"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#pokewb",
+                  "#text": "Pokemon Water Blue (Fire Red Mod)"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#mysteryred",
+                  "#text": "Pokemon Mystery Dungeon Red"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#pokemonruby",
+                  "#text": "Pokemon Ruby"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#pokemonlp",
+                  "#text": "Pokemon Light Platinum (Ruby Mod)"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#pokemonsapphire",
+                  "#text": "Pokemon Sapphire"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#pprs",
+                  "#text": "Pokemon Pinball - Ruby & Sapphire"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#gba_video_pokemon_1",
+                  "#text": "Pokemon Video Show Pak 1"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#gba_video_pokemon_2",
+                  "#text": "Pokemon Video Show Pak 2"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#gba_video_pokemon_3",
+                  "#text": "Pokemon Video Show Pak 3"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#gba_video_pokemon_4",
+                  "#text": "Pokemon Video Show Pak 4"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#puyopop",
+                  "#text": "Puyo Pop"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#ppf",
+                  "#text": "Puyo Pop Fever"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#rsrs",
+                  "#text": "Rainbow Six - Rogue Spear"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#r3hh",
+                  "#text": "Rayman 3 - Hoodlum Havoc"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#ra",
+                  "#text": "Rayman Advance"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#rtpl",
+                  "#text": "Rivera - The Promised Land"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#sag",
+                  "#text": "Sega Arcade Gallery"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#sc",
+                  "#text": "Sim City 2000"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#sonic_advance",
+                  "#text": "Sonic Advance"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#sonic_advance2",
+                  "#text": "Sonic Advance 2"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#sonic_advance3",
+                  "#text": "Sonic Advance 3"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#sonicbattle",
+                  "#text": "Sonic Battle"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#sonicpinball",
+                  "#text": "Sonic Pinball"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#sthg",
+                  "#text": "Sonic The Hedgehog - Genesis"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#spyro_adventure",
+                  "#text": "Spyro Adventure"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#spyro_ice",
+                  "#text": "Spyro: Season of Ice"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#spyro_flame",
+                  "#text": "Spyro 2: Season of Flame"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#supermarioadvance",
+                  "#text": "Super Mario Advance"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#supermarioadvance2",
+                  "#text": "Super Mario Advance 2"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#supermarioadvance3",
+                  "#text": "Super Mario Advance 3"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#supermarioadvance4",
+                  "#text": "Super Mario Advance 4"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#sma4+",
+                  "#text": "Super Mario Advance 4 (Wii U Version)"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#supermonkeyballjr",
+                  "#text": "Super Monkey Ball Jr"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#super_street_fighter_2_turbo_revival",
+                  "#text": "Super Street Fighter II: Turbo Revival"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#super_street_fighter_3_alpha",
+                  "#text": "Super Street Fighter III: Alpha"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#tales_of_phantasia",
+                  "#text": "Tales of Phantasia"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#tak2_staff_of_dreams",
+                  "#text": "Tak 2: The Staff of Dreams"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#tmnt",
+                  "#text": "Teenage Mutant Ninja Turtles"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#tetris_worlds",
+                  "#text": "Tetris Worlds"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#lyp",
+                  "#text": "The Game Of Life/Yahtzee/Payday"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#sims_bustin_out",
+                  "#text": "The Sims: Bustin ' Out"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#sims2",
+                  "#text": "The Sims 2"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#simpsons",
+                  "#text": "The Simpsons: Road Rage"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#thas",
+                  "#text": "Tony Hawk's American Sk8land"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#thps2",
+                  "#text": "Tony Hawk's Pro Skater 2"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#thps3",
+                  "#text": "Tony Hawk's Pro Skater 3"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#thps4",
+                  "#text": "Tony Hawk's Pro Skater 4"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#tggtc",
+                  "#text": "Top Gear GT Championship"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#tgr",
+                  "#text": "Top Gear Rally"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#turok_evolution",
+                  "#text": "Turok Evolution"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#ty2",
+                  "#text": "Ty the Tasmanian Tiger 2 - Bush Rescue"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#ty3",
+                  "#text": "Ty the Tasmanian Tiger 3 - Night of the Quinkan"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#unsb",
+                  "#text": "Uno+Skip-Bo"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#warioland4",
+                  "#text": "Wario Land 4"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#wario_ware",
+                  "#text": "Wario Ware Inc"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#ynfa",
+                  "#text": "Yggdra Union - We'll Never Fight Alone"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#zelda_past",
+                  "#text": "The Legend of Zelda: A Link to the Past"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#zelda_minish",
+                  "#text": "The Legend of Zelda: The Minish Cap"
+                }
+              }
+            ]
+          },
+          {
+            "li": [
+              {
+                "a": {
+                  "@href": "./launcher.html#pokemongb",
+                  "#text": "The Pokemon Collection"
+                }
+              },
+              {
+                "a": {
+                  "@href": "./launcher.html#marioland",
+                  "#text": "The Mario Land Collection"
+                }
+              }
+            ]
+          },
+          {
+            "li": {
+              "a": {
+                "@href": "./launcher.html#nesgh1",
+                "#text": "NES Greatest Hits 1"
+              }
+            }
+          }
+        ],
+        "h3": [
+          "Gameboy Game Collections",
+          "NES Game Collections"
+        ]
+      }
+    }
+  }
+}
